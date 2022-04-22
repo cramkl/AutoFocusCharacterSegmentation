@@ -20,8 +20,8 @@ In order to use this code, you also need to install the followings:
 
 
 #### 4. Instructions
-![](https://gitee.com/cramkl_cjlu/auto-focus-threshold-character-segment/blob/master/data/Image1.png)
+![](https://gitee.com/cramkl_cjlu/auto-focus-threshold-character-segment/data/Image1.png)
 
-![](https://gitee.com/cramkl_cjlu/auto-focus-threshold-character-segment/blob/master/result/recoverd_img/recoverd_img-1.jpg)
+![](https://gitee.com/cramkl_cjlu/auto-focus-threshold-character-segment/result/recoverd_img/recoverd_img-1.jpg)
 
 
